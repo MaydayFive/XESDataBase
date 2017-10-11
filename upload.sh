@@ -1,1 +1,1 @@
-pod trunk push XESDataBase.podspec --verbose --allow-warnings
+pod trunk push XESDataBasePublic.podspec --verbose --allow-warnings

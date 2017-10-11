@@ -1,7 +1,7 @@
 
 ### 一、安装
 ##### 1.1、Installation with CocoaPods（推荐）
-1.在 `Podfile` 中添加 `pod 'XESDataBase'`。
+1.在 `Podfile` 中添加 `pod 'XESDataBasePublic'`。
 2.执行 `pod install` 或 `pod update`。
 3.导入 `"XESDataBase.h"`。
 ##### 1.2、手动安装（不推荐）
@@ -684,7 +684,7 @@ resultState=[manager migrateDatabaseToVersion:UINT64_MAX progress:nil error:&err
 
 
 ### 历史版本
-* 0.1.0
+* 0.0.1
 
 ---
 ### 系统要求
